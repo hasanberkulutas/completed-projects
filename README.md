@@ -1,6 +1,6 @@
 ### Completed Projects
 
-[Ataspor](https://ataspor.com)
+[Ataspor](https://ataspor.com)  
 [E-Ihracatim](https://e-ihracatim.com.tr)
 [ElitArge](https://elitarge.com)
 [GymdayzAkademi](https://gymdayzakademi.com)
