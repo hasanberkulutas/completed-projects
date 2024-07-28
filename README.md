@@ -5,7 +5,6 @@
 [ElitArge](https://elitarge.com)  
 [GymdayzAkademi](https://gymdayzakademi.com)  
 [IdealMakina](https://idealmakina.ltd)  
-[IkonVilla](https://ikonvilla.com)  
 [KozanHukuk](https://kozanhukuk.av.tr)  
 [NSARockDrill](https://nsarockdrill.com)  
 [OTCHukuk](https://otchukuk.com.tr)  
