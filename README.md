@@ -40,3 +40,6 @@
 [AtesGrupYapi](https://atesgrupyapi.com.tr)  
 [PanaceaSigorta](https://panaceasigorta.com)  
 [VolkswagenParcalari](https://www.volkswagenparcalari.com)  
+[ErvaVize](https://www.ervavize.com)  
+[YenerHukukDanismanlik](https://yenerhukuk.tr)  
+[KarapurcekLojistik](https://demo.weodijital.com/kl/)  
